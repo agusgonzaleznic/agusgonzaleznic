@@ -1,4 +1,5 @@
 
+BE ADVICE, THIS CONTENT IS NOT ACCURATE IN ANY WAY.
 ![Hero image](https://raw.githubusercontent.com/agusgonzaleznic/images/main/wallhaven-49vwlk.jpeg)
 
 [![GitHub followers](https://img.shields.io/github/followers/agusgonzaleznic?logo=GitHub&style=for-the-badge)](https://agusgonzaleznic.com/github)
