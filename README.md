@@ -4,7 +4,7 @@ BE ADVICE, THIS CONTENT IS NOT ACCURATE IN ANY WAY.
 
 [![GitHub followers](https://img.shields.io/github/followers/agusgonzaleznic?logo=GitHub&style=for-the-badge)](https://agusgonzaleznic.com/github)
 [![GitHub Stars](https://img.shields.io/github/stars/agusgonzaleznic?logo=github&style=for-the-badge)](https://agusgonzaleznic.com/github)
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCOk-gHyjcWZNj3Br4oxwh0A?logo=youtube&logoColor=E05D44&style=for-the-badge&label=YouTube)](https://agusgonzaleznic.com/subscribe) 
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCOk-gHyjcWZNj3Br4oxwh0A?logo=youtube&logoColor=E05D44&style=for-the-badge&label=YouTube)](https://agusgonzaleznic.com/subscribe)
 [![Twitter Followers](https://img.shields.io/twitter/follow/agusgonzalezniclive?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://agusgonzaleznic.com/twitter)
 [![Twitch Status](https://img.shields.io/twitch/status/agusgonzaleznic?color=9147FF&logo=twitch&style=for-the-badge)](https://agusgonzaleznic.com/twitch)
 [![Discord Invite](https://img.shields.io/discord/677701098101932032?color=4A55CC&label=Discord&logo=discord&style=for-the-badge)](https://agusgonzaleznic.com/discord)
@@ -17,7 +17,7 @@ I'm Agustin Gonzalez Nicolini [(Agustin Gonzalez Nicolini)](https://agusgonzalez
 
 # 🧑‍💻 Some of my repos are
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusgonzaleznic&repo=k3s-ansible&theme=radical)](https://github.com/agusgonzaleznic/k3s-ansible)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusgonzaleznic&repo=k3s-tower-ansible&theme=radical)](https://github.com/agusgonzaleznic/k3s-tower-ansible)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusgonzaleznic&repo=agusgonzaleznic.github.io&theme=radical)](https://github.com/agusgonzaleznic/agusgonzaleznic.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusgonzaleznic&repo=agusgonzaleznic-portfolio-site-terraform&theme=radical)](https://github.com/agusgonzaleznic/agusgonzaleznic-portfolio-site-terraform)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusgonzaleznic&repo=agusgonzaleznic-portfolio-site&theme=radical)](https://github.com/agusgonzaleznic/agusgonzaleznic-portfolio-site)
