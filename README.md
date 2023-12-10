@@ -19,9 +19,8 @@ I'm Agustin Gonzalez Nicolini [(Agustin Gonzalez Nicolini)](https://agusgonzalez
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusgonzaleznic&repo=k3s-tower-ansible&theme=radical)](https://github.com/agusgonzaleznic/k3s-tower-ansible)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusgonzaleznic&repo=agusgonzaleznic.github.io&theme=radical)](https://github.com/agusgonzaleznic/agusgonzaleznic.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusgonzaleznic&repo=agusgonzaleznic-portfolio-site-terraform&theme=radical)](https://github.com/agusgonzaleznic/agusgonzaleznic-portfolio-site-terraform)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusgonzaleznic&repo=agusgonzaleznic-portfolio-site&theme=radical)](https://github.com/agusgonzaleznic/agusgonzaleznic-portfolio-site)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusgonzaleznic&repo=launchpad&theme=radical)](https://github.com/agusgonzaleznic/launchpad)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusgonzaleznic&repo=portfolio-site-terraform&theme=radical)](https://github.com/agusgonzaleznic/portfolio-site-terraform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusgonzaleznic&repo=portfolio-site&theme=radical)](https://github.com/agusgonzaleznic/portfolio-site)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusgonzaleznic&repo=github-reusable-workflows&theme=radical)](https://github.com/agusgonzaleznic/github-reusable-workflows)
 
 # 📊 My Stats
