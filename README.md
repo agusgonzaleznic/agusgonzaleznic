@@ -1,10 +1,10 @@
 
 BE ADVICE, THIS CONTENT IS NOT ACCURATE IN ANY WAY.
-![Hero image](https://raw.githubusercontent.com/agusgonzaleznic/images/main/wallhaven-49vwlk.jpeg)
+![Hero image](https://raw.githubusercontent.com/agusgonzaleznic/images/main/gh_header.png)
 
-[![GitHub followers](https://img.shields.io/github/followers/agusgonzaleznic?logo=GitHub&style=for-the-badge)](https://agusgonzaleznic.com/github)
-[![GitHub Stars](https://img.shields.io/github/stars/agusgonzaleznic?logo=github&style=for-the-badge)](https://agusgonzaleznic.com/github)
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCOk-gHyjcWZNj3Br4oxwh0A?logo=youtube&logoColor=E05D44&style=for-the-badge&label=YouTube)](https://agusgonzaleznic.com/subscribe)
+[![GitHub followers](https://img.shields.io/github/followers/agusgonzaleznic?logo=GitHub&style=for-the-badge)](https://github.com/agusgonzaleznic?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/agusgonzaleznic?logo=github&style=for-the-badge)](https://github.com/agusgonzaleznic?tab=stars)
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCOk-gHyjcWZNj3Br4oxwh0A?logo=youtube&logoColor=E05D44&style=for-the-badge&label=YouTube)](https://www.youtube.com/@agusgonzaleznic?sub_confirmation=1)
 [![Twitter Followers](https://img.shields.io/twitter/follow/agusgonzalezniclive?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://agusgonzaleznic.com/twitter)
 [![Twitch Status](https://img.shields.io/twitch/status/agusgonzaleznic?color=9147FF&logo=twitch&style=for-the-badge)](https://agusgonzaleznic.com/twitch)
 [![Discord Invite](https://img.shields.io/discord/677701098101932032?color=4A55CC&label=Discord&logo=discord&style=for-the-badge)](https://agusgonzaleznic.com/discord)
