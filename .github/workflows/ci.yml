@@ -1,0 +1,29 @@
+---
+name: Code Analysis
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  markdown-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4.2.1
+      - name: Lint markdown files
+        uses: avto-dev/markdown-lint@v1.5.0
+        with:
+          args: 'README.md .github/'
+          fix: true
+
+  yaml-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4.2.1
+      - name: Yaml Lint
+        uses: ibiqlik/action-yamllint@v3.1.1
+        with:
+          config_file: .yamllint.yml
