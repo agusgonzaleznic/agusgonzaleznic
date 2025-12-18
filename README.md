@@ -4,10 +4,10 @@
 [![GitHub followers](https://img.shields.io/github/followers/agusgonzaleznic?logo=GitHub&style=for-the-badge)](https://github.com/agusgonzaleznic?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/agusgonzaleznic?logo=github&style=for-the-badge)](https://github.com/agusgonzaleznic?tab=stars)
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCojIaFL2DwJC23nKZ_lRwYQ?logo=youtube&logoColor=E05D44&style=for-the-badge&label=YouTube)](https://www.youtube.com/@agusgonzaleznic?sub_confirmation=1)
-[![Twitter Followers](https://img.shields.io/twitter/follow/agusgonzalezniclive?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/agusgonzalezniclive)
+[![Twitter/X](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=x&style=for-the-badge)](https://twitter.com/agusgonzaleznic)
 [![Twitch Status](https://img.shields.io/twitch/status/agusgonzaleznic?color=9147FF&logo=twitch&style=for-the-badge)](https://www.twitch.tv/agusgonzaleznic)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/agusgonzaleznic?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/agusgonzaleznic)
-[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dagusgonzaleznic%26type%3Dpatrons&style=for-the-badge)](https://www.patreon.com/agusgonzaleznic)
+[![Support me on Patreon](https://img.shields.io/badge/Patreon-Support-F96854?logo=patreon&style=for-the-badge)](https://www.patreon.com/agusgonzaleznic)
 
 # 👋 Hey hey!
 
