@@ -19,11 +19,11 @@ Also find me on [Codeberg](https://codeberg.org/agusgonzaleznic) for more projec
 
 # 🧑‍💻 Some of my repos are
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusgonzaleznic&repo=k3s-tower-ansible&theme=radical)](https://github.com/agusgonzaleznic/k3s-tower-ansible)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusgonzaleznic&repo=github-reusable-workflows&theme=radical)](https://github.com/agusgonzaleznic/github-reusable-workflows)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusgonzaleznic&repo=agusgonzaleznic.github.io&theme=radical)](https://github.com/agusgonzaleznic/agusgonzaleznic.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusgonzaleznic&repo=terraform-aws-static-website&theme=radical)](https://github.com/agusgonzaleznic/terraform-aws-static-website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusgonzaleznic&repo=terraform-provider-immobilienscout24&theme=radical)](https://github.com/agusgonzaleznic/terraform-provider-immobilienscout24)
+[![Readme Card](https://github-readme-stats.shion.dev/api/pin/?username=agusgonzaleznic&repo=k3s-tower-ansible&theme=radical)](https://github.com/agusgonzaleznic/k3s-tower-ansible)
+[![Readme Card](https://github-readme-stats.shion.dev/api/pin/?username=agusgonzaleznic&repo=github-reusable-workflows&theme=radical)](https://github.com/agusgonzaleznic/github-reusable-workflows)
+[![Readme Card](https://github-readme-stats.shion.dev/api/pin/?username=agusgonzaleznic&repo=agusgonzaleznic.github.io&theme=radical)](https://github.com/agusgonzaleznic/agusgonzaleznic.github.io)
+[![Readme Card](https://github-readme-stats.shion.dev/api/pin/?username=agusgonzaleznic&repo=terraform-aws-static-website&theme=radical)](https://github.com/agusgonzaleznic/terraform-aws-static-website)
+[![Readme Card](https://github-readme-stats.shion.dev/api/pin/?username=agusgonzaleznic&repo=terraform-provider-immobilienscout24&theme=radical)](https://github.com/agusgonzaleznic/terraform-provider-immobilienscout24)
 
 # 🛠️ Technologies & Expertise
 
@@ -53,6 +53,6 @@ I'm open to collaborating on:
 
 # 📊 My Stats
 
-[![Agusgonzaleznic's github stats](https://github-readme-stats.vercel.app/api?username=agusgonzaleznic&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/agusgonzaleznic)
+[![Agusgonzaleznic's github stats](https://github-readme-stats.shion.dev/api?username=agusgonzaleznic&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/agusgonzaleznic)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=agusgonzaleznic&theme=dark&count_private=true&theme=radical)](https://github.com/agusgonzaleznic)
