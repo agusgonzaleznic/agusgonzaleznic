@@ -4,9 +4,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/agusgonzaleznic?logo=GitHub&style=for-the-badge)](https://github.com/agusgonzaleznic?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/agusgonzaleznic?logo=github&style=for-the-badge)](https://github.com/agusgonzaleznic?tab=stars)
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCojIaFL2DwJC23nKZ_lRwYQ?logo=youtube&logoColor=E05D44&style=for-the-badge&label=YouTube)](https://www.youtube.com/@agusgonzaleznic?sub_confirmation=1)
-[![Twitter/X](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=x&style=for-the-badge)](https://twitter.com/agusgonzaleznic)
+[![Twitter/X](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=x&style=for-the-badge)](https://x.com/agusgonzaleznic)
 [![Twitch Status](https://img.shields.io/twitch/status/agusgonzaleznic?color=9147FF&logo=twitch&style=for-the-badge)](https://www.twitch.tv/agusgonzaleznic)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/agusgonzaleznic?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/agusgonzaleznic)
 [![Support me on Patreon](https://img.shields.io/badge/Patreon-Support-F96854?logo=patreon&style=for-the-badge)](https://www.patreon.com/agusgonzaleznic)
 
 # 👋 Hey hey!
@@ -17,13 +16,15 @@ I've contributed to notable projects at **Ualá**, **JUCR GmbH**, and **Telam SE
 
 Also find me on [Codeberg](https://codeberg.org/agusgonzaleznic) for more projects!
 
-# 🧑‍💻 Some of my repos are
+# 🧑‍💻 Some stuff I've been building
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusgonzaleznic&repo=k3s-tower-ansible&theme=radical)](https://github.com/agusgonzaleznic/k3s-tower-ansible)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusgonzaleznic&repo=github-reusable-workflows&theme=radical)](https://github.com/agusgonzaleznic/github-reusable-workflows)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusgonzaleznic&repo=agusgonzaleznic.github.io&theme=radical)](https://github.com/agusgonzaleznic/agusgonzaleznic.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusgonzaleznic&repo=terraform-aws-static-website&theme=radical)](https://github.com/agusgonzaleznic/terraform-aws-static-website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agusgonzaleznic&repo=terraform-provider-immobilienscout24&theme=radical)](https://github.com/agusgonzaleznic/terraform-provider-immobilienscout24)
+Mostly infrastructure-as-code, reusable CI pipelines, and the machinery behind my site:
+
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=agusgonzaleznic&repo=github-reusable-workflows&theme=radical)](https://github.com/agusgonzaleznic/github-reusable-workflows)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=agusgonzaleznic&repo=agusgonzaleznic.github.io&theme=radical)](https://github.com/agusgonzaleznic/agusgonzaleznic.github.io)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=agusgonzaleznic&repo=terraform-aws-static-website&theme=radical)](https://github.com/agusgonzaleznic/terraform-aws-static-website)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=agusgonzaleznic&repo=terraform-aws-s3-bucket&theme=radical)](https://github.com/agusgonzaleznic/terraform-aws-s3-bucket)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=agusgonzaleznic&repo=terraform-provider-immobilienscout24&theme=radical)](https://github.com/agusgonzaleznic/terraform-provider-immobilienscout24)
 
 # 🛠️ Technologies & Expertise
 
@@ -53,6 +54,6 @@ I'm open to collaborating on:
 
 # 📊 My Stats
 
-[![Agusgonzaleznic's github stats](https://github-readme-stats.vercel.app/api?username=agusgonzaleznic&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/agusgonzaleznic)
+[![Agusgonzaleznic's github stats](https://github-readme-stats-fast.vercel.app/api?username=agusgonzaleznic&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/agusgonzaleznic)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=agusgonzaleznic&theme=dark&count_private=true&theme=radical)](https://github.com/agusgonzaleznic)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=agusgonzaleznic&theme=radical&count_private=true)](https://github.com/agusgonzaleznic)
