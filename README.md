@@ -3,7 +3,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/agusgonzaleznic?logo=GitHub&style=for-the-badge)](https://github.com/agusgonzaleznic?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/agusgonzaleznic?logo=github&style=for-the-badge)](https://github.com/agusgonzaleznic?tab=stars)
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCojIaFL2DwJC23nKZ_lRwYQ?logo=youtube&logoColor=E05D44&style=for-the-badge&label=YouTube)](https://www.youtube.com/@agusgonzaleznic?sub_confirmation=1)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@agusgonzaleznic?sub_confirmation=1)
 [![Twitter/X](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=x&style=for-the-badge)](https://x.com/agusgonzaleznic)
 [![Twitch Status](https://img.shields.io/twitch/status/agusgonzaleznic?color=9147FF&logo=twitch&style=for-the-badge)](https://www.twitch.tv/agusgonzaleznic)
 [![Support me on Patreon](https://img.shields.io/badge/Patreon-Support-F96854?logo=patreon&style=for-the-badge)](https://www.patreon.com/agusgonzaleznic)
