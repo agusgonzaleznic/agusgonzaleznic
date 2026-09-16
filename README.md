@@ -2,7 +2,6 @@
 ![Hero image](https://raw.githubusercontent.com/agusgonzaleznic/images/main/gh_header.png)
 
 [![GitHub followers](https://img.shields.io/github/followers/agusgonzaleznic?logo=GitHub&style=for-the-badge)](https://github.com/agusgonzaleznic?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/agusgonzaleznic?logo=github&style=for-the-badge)](https://github.com/agusgonzaleznic?tab=stars)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@agusgonzaleznic?sub_confirmation=1)
 [![Twitter/X](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=x&style=for-the-badge)](https://x.com/agusgonzaleznic)
 [![Twitch Status](https://img.shields.io/twitch/status/agusgonzaleznic?color=9147FF&logo=twitch&style=for-the-badge)](https://www.twitch.tv/agusgonzaleznic)
@@ -10,11 +9,9 @@
 
 # 👋 Hey hey!
 
-I'm Agustin Gonzalez Nicolini, a passionate VP of engineering, content creator, and InfraSec engineer at heart. I create fun and easy to follow tech content on [YouTube](https://www.youtube.com/@agusgonzaleznic?sub_confirmation=1), host a community live stream on [Twitch](https://www.twitch.tv/agusgonzaleznic), and share tech related content on all social platforms. I really enjoy building a community around our passions, developing teams as well as people's skills and teaching others through video content.
+I'm Agustin Gonzalez Nicolini, Head of Infrastructure and Security at **Safe Labs GmbH** in Berlin, and an InfraSec engineer at heart. I create fun and easy to follow tech content on [YouTube](https://www.youtube.com/@agusgonzaleznic?sub_confirmation=1), host a community live stream on [Twitch](https://www.twitch.tv/agusgonzaleznic), and share tech related content on all social platforms. I really enjoy building a community around our passions, developing teams as well as people's skills and teaching others through video content.
 
 I've contributed to notable projects at **Ualá**, **JUCR GmbH**, and **Telam SE**. Check out my [portfolio site](https://agusgonzaleznic.com) to learn more about my work!
-
-Also find me on [Codeberg](https://codeberg.org/agusgonzaleznic) for more projects!
 
 # 🧑‍💻 Some stuff I've been building
 
@@ -25,6 +22,7 @@ Mostly infrastructure-as-code, reusable CI pipelines, and the machinery behind m
 [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=agusgonzaleznic&repo=terraform-aws-static-website&theme=radical)](https://github.com/agusgonzaleznic/terraform-aws-static-website)
 [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=agusgonzaleznic&repo=terraform-aws-s3-bucket&theme=radical)](https://github.com/agusgonzaleznic/terraform-aws-s3-bucket)
 [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=agusgonzaleznic&repo=terraform-provider-immobilienscout24&theme=radical)](https://github.com/agusgonzaleznic/terraform-provider-immobilienscout24)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=agusgonzaleznic&repo=drive-berlin&theme=radical)](https://github.com/agusgonzaleznic/drive-berlin)
 
 # 🛠️ Technologies & Expertise
 
@@ -35,9 +33,11 @@ Mostly infrastructure-as-code, reusable CI pipelines, and the machinery behind m
 
 # ✍️ Featured Content
 
-Check out some of my writing on [Medium](https://medium.com/@agusgonzaleznic):
-- [Automating Real Estate Listings with Terraform: Introducing the ImmobilienScout24 Provider](https://agusgonzaleznic.medium.com/automating-real-estate-listings-with-terraform-introducing-the-immobilienscout24-provider-689b24f4bad6)
-- [GitHub is Turning into a Toxic Relationship](https://agusgonzaleznic.medium.com/github-is-turning-into-a-toxic-relationship-9d8e8178c097)
+I write on [my blog](https://agusgonzaleznic.com/blog), and some of it is on [Medium](https://medium.com/@agusgonzaleznic) too:
+
+- [Alert Fatigue and Fuck Bingo](https://agusgonzaleznic.com/blog/alert-fatigue-and-fuck-bingo/)
+- [GitHub is Turning into a Toxic Relationship](https://agusgonzaleznic.com/blog/github-is-turning-into-a-toxic-relationship/)
+- [Automating Real Estate Listings with Terraform: Introducing the ImmobilienScout24 Provider](https://agusgonzaleznic.com/blog/immobilienscout24-terraform-provider/)
 
 # 🤝 Let's Collaborate
 
@@ -48,7 +48,7 @@ I'm open to collaborating on:
 
 # 📬 Get in Touch
 
-- 💼 **Professional inquiries**: [Contact form](https://agusgonzaleznic.com/#:~:text=Impact-,Contact,-Book%20a%20Session)
+- 💼 **Professional inquiries**: [Contact form](https://agusgonzaleznic.com/contact)
 - 🌐 **Portfolio**: [agusgonzaleznic.com](https://agusgonzaleznic.com)
 - 📺 **YouTube**: [@agusgonzaleznic](https://www.youtube.com/@agusgonzaleznic)
 
