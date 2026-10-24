@@ -1,11 +1,11 @@
 
-![Hero image](https://raw.githubusercontent.com/agusgonzaleznic/images/main/gh_header.png)
+[![Agustin Gonzalez Nicolini: 20+ years in infrastructure and security](assets/header.png)](https://agusgonzaleznic.com)
 
-[![GitHub followers](https://img.shields.io/github/followers/agusgonzaleznic?logo=GitHub&style=for-the-badge)](https://github.com/agusgonzaleznic?tab=followers)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@agusgonzaleznic?sub_confirmation=1)
-[![Twitter/X](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=x&style=for-the-badge)](https://x.com/agusgonzaleznic)
-[![Twitch Status](https://img.shields.io/twitch/status/agusgonzaleznic?color=9147FF&logo=twitch&style=for-the-badge)](https://www.twitch.tv/agusgonzaleznic)
-[![Support me on Patreon](https://img.shields.io/badge/Patreon-Support-F96854?logo=patreon&style=for-the-badge)](https://www.patreon.com/agusgonzaleznic)
+[![GitHub followers](https://img.shields.io/github/followers/agusgonzaleznic?logo=GitHub&logoColor=FAFAFA&labelColor=1A1D23&color=555D6D&style=for-the-badge)](https://github.com/agusgonzaleznic?tab=followers)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-555D6D?logo=youtube&logoColor=FAFAFA&labelColor=1A1D23&style=for-the-badge)](https://www.youtube.com/@agusgonzaleznic?sub_confirmation=1)
+[![Twitter/X](https://img.shields.io/badge/Twitter-Follow-555D6D?logo=x&logoColor=FAFAFA&labelColor=1A1D23&style=for-the-badge)](https://x.com/agusgonzaleznic)
+[![Twitch Status](https://img.shields.io/twitch/status/agusgonzaleznic?logo=twitch&logoColor=FAFAFA&labelColor=1A1D23&color=555D6D&style=for-the-badge)](https://www.twitch.tv/agusgonzaleznic)
+[![Support me on Patreon](https://img.shields.io/badge/Patreon-Support-555D6D?logo=patreon&logoColor=FAFAFA&labelColor=1A1D23&style=for-the-badge)](https://www.patreon.com/agusgonzaleznic)
 
 # 👋 Hey hey!
 
@@ -17,12 +17,12 @@ I've contributed to notable projects at **Ualá**, **JUCR GmbH**, and **Telam SE
 
 Mostly infrastructure-as-code, reusable CI pipelines, and the machinery behind my site:
 
-[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=agusgonzaleznic&repo=github-reusable-workflows&theme=radical)](https://github.com/agusgonzaleznic/github-reusable-workflows)
-[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=agusgonzaleznic&repo=agusgonzaleznic.github.io&theme=radical)](https://github.com/agusgonzaleznic/agusgonzaleznic.github.io)
-[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=agusgonzaleznic&repo=terraform-aws-static-website&theme=radical)](https://github.com/agusgonzaleznic/terraform-aws-static-website)
-[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=agusgonzaleznic&repo=terraform-aws-s3-bucket&theme=radical)](https://github.com/agusgonzaleznic/terraform-aws-s3-bucket)
-[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=agusgonzaleznic&repo=terraform-provider-immobilienscout24&theme=radical)](https://github.com/agusgonzaleznic/terraform-provider-immobilienscout24)
-[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=agusgonzaleznic&repo=drive-berlin&theme=radical)](https://github.com/agusgonzaleznic/drive-berlin)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=agusgonzaleznic&repo=github-reusable-workflows&bg_color=1A1D23&title_color=FAFAFA&text_color=FAFAFACC&icon_color=DE3412&ring_color=DE3412&border_color=1A1D23&hide_border=true)](https://github.com/agusgonzaleznic/github-reusable-workflows)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=agusgonzaleznic&repo=agusgonzaleznic.github.io&bg_color=1A1D23&title_color=FAFAFA&text_color=FAFAFACC&icon_color=DE3412&ring_color=DE3412&border_color=1A1D23&hide_border=true)](https://github.com/agusgonzaleznic/agusgonzaleznic.github.io)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=agusgonzaleznic&repo=terraform-aws-static-website&bg_color=1A1D23&title_color=FAFAFA&text_color=FAFAFACC&icon_color=DE3412&ring_color=DE3412&border_color=1A1D23&hide_border=true)](https://github.com/agusgonzaleznic/terraform-aws-static-website)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=agusgonzaleznic&repo=terraform-aws-s3-bucket&bg_color=1A1D23&title_color=FAFAFA&text_color=FAFAFACC&icon_color=DE3412&ring_color=DE3412&border_color=1A1D23&hide_border=true)](https://github.com/agusgonzaleznic/terraform-aws-s3-bucket)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=agusgonzaleznic&repo=terraform-provider-immobilienscout24&bg_color=1A1D23&title_color=FAFAFA&text_color=FAFAFACC&icon_color=DE3412&ring_color=DE3412&border_color=1A1D23&hide_border=true)](https://github.com/agusgonzaleznic/terraform-provider-immobilienscout24)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=agusgonzaleznic&repo=drive-berlin&bg_color=1A1D23&title_color=FAFAFA&text_color=FAFAFACC&icon_color=DE3412&ring_color=DE3412&border_color=1A1D23&hide_border=true)](https://github.com/agusgonzaleznic/drive-berlin)
 
 # 🛠️ Technologies & Expertise
 
@@ -54,6 +54,6 @@ I'm open to collaborating on:
 
 # 📊 My Stats
 
-[![Agusgonzaleznic's github stats](https://github-readme-stats-fast.vercel.app/api?username=agusgonzaleznic&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/agusgonzaleznic)
+[![Agusgonzaleznic's github stats](https://github-readme-stats-fast.vercel.app/api?username=agusgonzaleznic&show_icons=true&count_private=true&hide=stars&bg_color=1A1D23&title_color=FAFAFA&text_color=FAFAFACC&icon_color=DE3412&ring_color=DE3412&border_color=1A1D23&hide_border=true)](https://github.com/agusgonzaleznic)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=agusgonzaleznic&theme=radical&count_private=true)](https://github.com/agusgonzaleznic)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=agusgonzaleznic&count_private=true&background=1A1D23&border=1A1D23&hide_border=true&stroke=FAFAFA33&ring=DE3412&fire=DE3412&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=FAFAFA&sideLabels=FAFAFACC&dates=FAFAFACC)](https://github.com/agusgonzaleznic)
