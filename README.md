@@ -1,5 +1,5 @@
 
-[![Agustin Gonzalez Nicolini: 20+ years in infrastructure and security](assets/header.png)](https://agusgonzaleznic.com)
+[![Agustin Gonzalez Nicolini: 20+ years in infrastructure and security](assets/header.jpg)](https://agusgonzaleznic.com)
 
 [![GitHub followers](https://img.shields.io/github/followers/agusgonzaleznic?logo=GitHub&logoColor=FAFAFA&labelColor=1A1D23&color=555D6D&style=for-the-badge)](https://github.com/agusgonzaleznic?tab=followers)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-555D6D?logo=youtube&logoColor=FAFAFA&labelColor=1A1D23&style=for-the-badge)](https://www.youtube.com/@agusgonzaleznic?sub_confirmation=1)
