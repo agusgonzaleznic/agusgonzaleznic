@@ -17,12 +17,14 @@ I've contributed to notable projects at **Ualá**, **JUCR GmbH**, and **Telam SE
 
 Mostly infrastructure-as-code, reusable CI pipelines, and the machinery behind my site:
 
-[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=agusgonzaleznic&repo=github-reusable-workflows&bg_color=1A1D23&title_color=FAFAFA&text_color=FAFAFACC&icon_color=DE3412&ring_color=DE3412&border_color=1A1D23&hide_border=true)](https://github.com/agusgonzaleznic/github-reusable-workflows)
-[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=agusgonzaleznic&repo=agusgonzaleznic.github.io&bg_color=1A1D23&title_color=FAFAFA&text_color=FAFAFACC&icon_color=DE3412&ring_color=DE3412&border_color=1A1D23&hide_border=true)](https://github.com/agusgonzaleznic/agusgonzaleznic.github.io)
-[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=agusgonzaleznic&repo=terraform-aws-static-website&bg_color=1A1D23&title_color=FAFAFA&text_color=FAFAFACC&icon_color=DE3412&ring_color=DE3412&border_color=1A1D23&hide_border=true)](https://github.com/agusgonzaleznic/terraform-aws-static-website)
-[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=agusgonzaleznic&repo=terraform-aws-s3-bucket&bg_color=1A1D23&title_color=FAFAFA&text_color=FAFAFACC&icon_color=DE3412&ring_color=DE3412&border_color=1A1D23&hide_border=true)](https://github.com/agusgonzaleznic/terraform-aws-s3-bucket)
-[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=agusgonzaleznic&repo=terraform-provider-immobilienscout24&bg_color=1A1D23&title_color=FAFAFA&text_color=FAFAFACC&icon_color=DE3412&ring_color=DE3412&border_color=1A1D23&hide_border=true)](https://github.com/agusgonzaleznic/terraform-provider-immobilienscout24)
-[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=agusgonzaleznic&repo=drive-berlin&bg_color=1A1D23&title_color=FAFAFA&text_color=FAFAFACC&icon_color=DE3412&ring_color=DE3412&border_color=1A1D23&hide_border=true)](https://github.com/agusgonzaleznic/drive-berlin)
+| Project | What it is | Language |
+|---|---|---|
+| [github-reusable-workflows](https://github.com/agusgonzaleznic/github-reusable-workflows) | Reusable GitHub Actions workflows | Python |
+| [agusgonzaleznic.github.io](https://github.com/agusgonzaleznic/agusgonzaleznic.github.io) | My personal site and blog: React + Vite with Storyblok CMS, six languages, deployed to AWS with Terraform | JavaScript |
+| [terraform-aws-static-website](https://github.com/agusgonzaleznic/terraform-aws-static-website) | Terraform module to deploy static websites | HCL |
+| [terraform-aws-s3-bucket](https://github.com/agusgonzaleznic/terraform-aws-s3-bucket) | Terraform module to deploy S3 buckets | HCL |
+| [terraform-provider-immobilienscout24](https://github.com/agusgonzaleznic/terraform-provider-immobilienscout24) | Terraform provider for ImmobilienScout24: manage German real estate listings as code | Go |
+| [drive-berlin](https://github.com/agusgonzaleznic/drive-berlin) | Gamified English-language guide to converting a non-EU driving licence to a German one in Berlin, with a full class B theory course | JavaScript |
 
 # 🛠️ Technologies & Expertise
 
@@ -53,7 +55,5 @@ I'm open to collaborating on:
 - 📺 **YouTube**: [@agusgonzaleznic](https://www.youtube.com/@agusgonzaleznic)
 
 # 📊 My Stats
-
-[![Agusgonzaleznic's github stats](https://github-readme-stats-fast.vercel.app/api?username=agusgonzaleznic&show_icons=true&count_private=true&hide=stars&bg_color=1A1D23&title_color=FAFAFA&text_color=FAFAFACC&icon_color=DE3412&ring_color=DE3412&border_color=1A1D23&hide_border=true)](https://github.com/agusgonzaleznic)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=agusgonzaleznic&count_private=true&background=1A1D23&border=1A1D23&hide_border=true&stroke=FAFAFA33&ring=DE3412&fire=DE3412&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=FAFAFA&sideLabels=FAFAFA&dates=FAFAFA)](https://github.com/agusgonzaleznic)
