@@ -56,4 +56,4 @@ I'm open to collaborating on:
 
 [![Agusgonzaleznic's github stats](https://github-readme-stats-fast.vercel.app/api?username=agusgonzaleznic&show_icons=true&count_private=true&hide=stars&bg_color=1A1D23&title_color=FAFAFA&text_color=FAFAFACC&icon_color=DE3412&ring_color=DE3412&border_color=1A1D23&hide_border=true)](https://github.com/agusgonzaleznic)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=agusgonzaleznic&count_private=true&background=1A1D23&border=1A1D23&hide_border=true&stroke=FAFAFA33&ring=DE3412&fire=DE3412&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=FAFAFA&sideLabels=FAFAFACC&dates=FAFAFACC)](https://github.com/agusgonzaleznic)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=agusgonzaleznic&count_private=true&background=1A1D23&border=1A1D23&hide_border=true&stroke=FAFAFA33&ring=DE3412&fire=DE3412&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=FAFAFA&sideLabels=FAFAFA&dates=FAFAFA)](https://github.com/agusgonzaleznic)
